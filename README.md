@@ -1,1 +1,1 @@
-# host_virus_protein_mimicry
+# domain_mimicry
