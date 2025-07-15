@@ -1,4 +1,4 @@
-# The evolutionary dynamics of viral mimic-host protein interactions
+# The evolutionary dynamics between viral mimics and host proteins
 
 This gitHub includes a collection of scripts and command-lines for running and reproducing the analysis workflow. The input data required for running the scripts described here can be found at our Zenodo dataset- https://zenodo.org/uploads/15880296
 
